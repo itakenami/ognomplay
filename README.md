@@ -23,12 +23,14 @@ Adicione esta configuração em conf/dependencies.yml
 
 Dentro da pasta do projeto rode o comando:
 
-	```play dependencies```
+	play dependencies
 	
 ## Testando
 
 Para criar um exmplo, dentro da pasta do projeto, utilize o comando:
+
 	ognomplay:sample
+	
 	
 Após executar o comando acima os seguintes arquivos serão criados:
 * app/models/Usuario.java => Model exemplo
