@@ -17,7 +17,7 @@ Adicione esta configuração em conf/dependencies.yml
     repositories:
         - takenami:
             type:       http
-            artifact:   "http://cloud.github.com/downloads/itakenami/ognomplay/[module]-[revision].zip"
+            artifact:   "https://github.com/itakenami/ognomplay/raw/master/dist/[module]-[revision].zip"
             contains:
                 - takenami -> *
 
